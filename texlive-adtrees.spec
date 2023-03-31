@@ -1,6 +1,6 @@
 Name:		texlive-adtrees
 Version:	51618
-Release:	1
+Release:	2
 Summary:	Macros for drawing adpositional trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adtrees
