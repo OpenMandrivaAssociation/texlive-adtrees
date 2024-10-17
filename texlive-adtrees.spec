@@ -3,7 +3,7 @@ Version:	51618
 Release:	2
 Summary:	Macros for drawing adpositional trees
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adtrees
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/adtrees
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adtrees.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adtrees.doc.r%{version}.tar.xz
